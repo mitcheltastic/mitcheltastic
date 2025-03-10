@@ -2,7 +2,7 @@
 <h3 align="center">I'm a data and backend development enthusiast from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mitcheltastic&label=Profile%20views&color=0e75b6&style=flat" alt="mitcheltastic" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitcheltastic&label=Profile%20views&color=0e75b6&style=flat](https://imgur.com/U8iSsRm"/> </p>
+<p align="center"> <img src="https://imgur.com/U8iSsRm"/> </p>
 - 📫 How to reach me **mitch.affandi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

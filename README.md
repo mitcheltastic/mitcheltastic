@@ -1,8 +1,8 @@
 <h2>🐣 About Me:</h2>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  
-<div align="left">
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
 
 🚀 I'm a Telecommunication Engineering<br>
 👨‍💻 Mainly interested in Backend Development<br>
@@ -11,7 +11,9 @@
 
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" width="250"/>
+<div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" width="200">
+</div>
 
 </div>
 

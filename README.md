@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mitch Affandi</h1>
-<h3 align="center">I'm a data and backend development enthusiast from Indonesia</h3>
+<h3 align="center">I am mainly interested in Backend Development, Data Manipulation and AI/ML Engineering</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/U8iSsRm.gif" alt="GIF" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" alt="GIF" width="400"/>
 </p>
 
 - 📫 How to reach me **mitch.affandi22@gmail.com**

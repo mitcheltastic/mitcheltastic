@@ -1,22 +1,19 @@
 <h2>🐣 About Me:</h2>
 
-<table border="0">
-<tr>
-<td valign="top">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  
+<div align="left">
 
-🚀 I'm a Telecommunication Engineering  
-👨‍💻 Mainly interested in Backend Development  
-🧠 Also interested in AI/ML Engineering  
+🚀 I'm a Telecommunication Engineering<br>
+👨‍💻 Mainly interested in Backend Development<br>
+🧠 Also interested in AI/ML Engineering<br>
 🌈 Follow me on my learning journey!
 
-</td>
-<td>
+</div>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" width="250"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtchffnd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitchaff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitch.affandi22@gmail.com) 

@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭I'm a Telecommunication Engineering<br>👨‍💻Mainly interested in Backend Development<br>🧠Also interested in AI/ML Engineering<br>🛣️Follow me on my learning journey!
+<h2>🐣 About Me:</h2>
+
+<table>
+<tr>
+<td>
+
+🚀 I'm a Telecommunication Engineering  
+👨‍💻 Mainly interested in Backend Development  
+🧠 Also interested in AI/ML Engineering  
+🌈 Follow me on my learning journey!
+
+</td>
+<td>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:

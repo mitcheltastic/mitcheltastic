@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-🚀 I'm a Telecommunication Engineering<br>
+🚀 I'm a Telecommunication Engineering Student<br>
 👨‍💻 Mainly interested in Backend Development<br>
 🧠 Also interested in AI/ML Engineering<br>
 🌈 Follow me on my learning journey!

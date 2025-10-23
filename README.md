@@ -14,7 +14,7 @@
 </td>
 <td>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyY2NzbHlkZTFpamw2cHB3M2ExN3RlYnZnajgwempvNGs4Z3JwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GvbEnwqiGCsk8/giphy.gif" width="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ2MDY1YWh2OTd3OHRpZHVjZXYxMjkwbmRmOGNqNTU4dGtvYmtsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wMd4ncn3Mac36/giphy.gif" width="500">
 
 </td>
 </tr>

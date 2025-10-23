@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Greetings Lovely People! 👋</h1>
 
 <h3>🚀 About Me:</h3>
 

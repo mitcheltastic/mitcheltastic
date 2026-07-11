@@ -108,10 +108,10 @@
 <div align="center">
 <h3>📊 GitHub Stats</h3>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitcheltastic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-five-iota-81.vercel.app/api?username=mitcheltastic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://streak-stats.demolab.com?user=mitcheltastic&theme=tokyonight&hide_border=true"/>
 <br>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitcheltastic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-five-iota-81.vercel.app/api/top-langs/?username=mitcheltastic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 

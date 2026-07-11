@@ -115,10 +115,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mitcheltastic&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitcheltastic&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 <br><br>

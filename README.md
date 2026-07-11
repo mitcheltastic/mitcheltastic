@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mitchel%20Mohamad%20Affandi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecommunication%20Engineering%20%C2%B7%Fullstack%20%C2%B7%20AI%2FML&descAlignY=58&descSize=16" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mitchel%20Mohamad%20Affandi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecommunication%20Engineering%20%C2%B7%20Fullstack%20%C2%B7%20AI%2FML&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Fullstack+Developer+%F0%9F%9B%A0%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/></a>

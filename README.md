@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Fullstack+Developer+%F0%9F%9B%A0%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/></a>
 </div>
 
 <div align="center">
@@ -101,6 +101,16 @@
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+
+<br><br>
+
+**Systems, Infra & Monitoring**<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Cockpit-0066CC?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
